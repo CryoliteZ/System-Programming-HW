@@ -2,8 +2,10 @@
 ### SP 2017
 ### Goals
 ．Be familiar with UNIX
-．Learn about linux sys calls 
-．Implement with C programming 
+
+．Learn about linux sys calls
+
+．Implement with C programming
  
 ### Links
 
